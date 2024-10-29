@@ -1,5 +1,5 @@
 
-# Explain ho to use reactJs ...
+# Explain how to use reactJs ...
 
 ### This tutorial are from programing hero team 
 
